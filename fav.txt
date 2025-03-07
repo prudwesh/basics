@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-egg
-paneer
-rice
-chicken
-=======
-got 
-harry porter
-stranger things
->>>>>>> movies
+
+doma
+eega
+pushpa
